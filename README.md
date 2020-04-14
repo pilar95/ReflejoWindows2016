@@ -1,9 +1,16 @@
-"Práctica Reflejo de arranque con Windows 2016 Server" 
-Prueba de instalación de un Raid-1 con Windows Server 2016 con particiones GPT.
-El documento prueba el proceso paso a paso. Se basa en la documentación de Microsoft publicada en:
-https://support.microsoft.com/en-us/help/951985/how-to-set-up-dynamic-boot-partition-mirroring-on-guid-partition-table
-con el añadido de la duplicación de la partición RE
-Espero vuestras contribuciones, por eso el documento esté en formato docx para que podáis modificarlo. 
-Las contribuciones pueden ser tanto en errores no detectados, como en la claridad del documento o en la optimización del proceso.
+# "Prueba para educación. Reflejo de arranque con Windows 2016 Server y particiones GPT" 
 
-Espero que esta práctica os ayude a comprender el proceso de Arranque de Windows con particiones GPT.
+# Objetivo
+- Reflejar un disco de arranque Windows 2016 con particiones GPT de manera que el sistema pueda arrancar,
+indistintamente, con cualquiera de los discos.
+
+## ¿Qué necesitamos?
+- VirtualBox 6.1
+- Una imagen de Windows Server 2016
+
+## Resumen
+
+  El documento es una práctica en la que se duplica el arranque de Windows. Utilizamos dos discos SATA con el mismo tamaño.
+  En el primer disco instalamos el Sistema Operativo:
+  
+  
