@@ -14,3 +14,5 @@ indistintamente, con cualquiera de los discos.
   En el primer disco instalamos el Sistema Operativo:
   
  ! (https://github.com/pilar95/ReflejoWindows2016/tree/master/imagenes/partitionsWindowsServer.jpg)
+ <br>
+ <img height="200" src="https://github.com/pilar95/ReflejoWindows2016/tree/master/imagenes/partitionsWindowsServer.jpg">
