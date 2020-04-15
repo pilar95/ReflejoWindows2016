@@ -17,7 +17,7 @@ indistintamente, con cualquiera de los discos.
 ![partitionsWindowsServer](https://user-images.githubusercontent.com/22640799/79308990-d7298380-7ef9-11ea-9e28-b6bfd671772a.jpg)
 
 A continuación:
-- Creamos las particiones RE, System (EFI) y msr el el segundo disco con Diskpart
+- Creamos las particiones RE, System (EFI) y msr del segundo disco con Diskpart
 - Formateamos la partición RE en NTFS y la EFI con FAT 32
 - Reflejamos el volumen C
 - Modificamos el almacén BCD añadiéndole las nuevas entradas del disco 1 con bcdedit.exe
