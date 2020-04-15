@@ -10,7 +10,7 @@ indistintamente, con cualquiera de los discos.
 
 ## Resumen
 
-  El documento es una práctica en la que se duplica el arranque de Windows. Utilizamos dos discos SATA con el mismo tamaño.
+  El documento transcribe una práctica en la que se duplica el arranque de Windows. Utilizamos dos discos SATA con el mismo tamaño.
   En el primer disco instalamos el Sistema Operativo:
   
- ![Imagen particionado Windows Server 2016](https://github.com/pilar95/ReflejoWindows2016/tree/master/imagenes/partitionsWindowsServer.jpg)
+ ! [Imagen particionado Windows Server 2016](https://github.com/pilar95/ReflejoWindows2016/tree/master/imagenes/partitionsWindowsServer.jpg)
