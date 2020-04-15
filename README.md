@@ -14,4 +14,4 @@ indistintamente, con cualquiera de los discos.
   En el primer disco instalamos el Sistema Operativo:
   
  <br>
- <img height="200" src="master/imagenes/partitionsWindwosServer.jpg"/>
+ <img height="200" src="imagenes/partitionsWindwosServer.jpg"/>
